@@ -12,4 +12,7 @@ df=df.head(500)
 2) The overall sentiment of the review is leaning towards positive.
 3) The VADER model predicted positive sentiment in lower rated reviews while the Roberta model predicted positive sentiment in the higher rated reviews.<br/>
    ![alt text](https://github.com/Anuragghosh12/NLPSentimentAnalysis/blob/2c5534aaf8714b90399a78d92932445ccf32b470/Roberta_POS.png?raw=true "Roberta Positive") <br/>
-   ![alt text](https://github.com/Anuragghosh12/NLPSentimentAnalysis/blob/2c5534aaf8714b90399a78d92932445ccf32b470/VADER_POS.png>raw=true "VADER Positive")
+   Roberta Positive <br/>
+   ![alt text](https://github.com/Anuragghosh12/NLPSentimentAnalysis/blob/2c5534aaf8714b90399a78d92932445ccf32b470/VADER_POS.png?raw=true "VADER Positive") <br/>
+   VADER Positive
+   
